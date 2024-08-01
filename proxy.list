@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,https://chatgpt.com/
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,deepstatemap.live
 
 // for youtube
 DOMAIN-SUFFIX,google.com
