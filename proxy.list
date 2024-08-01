@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: subae
-# REPO: https://github.com/eugensubachev/shadowrocket-conf-russia
-# UPDATED: 2024-08-01 11:29:00
+# REPO: https://github.com/eugensubachev/shadowrocket-configs
+# UPDATED: 2024-08-01 11:41:00
 
 // abroad all
 DOMAIN-SUFFIX,ifconfig.me
@@ -73,19 +73,30 @@ DOMAIN-SUFFIX,wss://api.openai.com
 DOMAIN-SUFFIX,api.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,https://chatgpt.com/
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,deepstatemap.live
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,google.com
+
+// ru all
+DOMAIN-SUFFIX,habr.com
 
 // for youtube
-DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,*.youtube.com
+DOMAIN-SUFFIX,*.googlevideo.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN,youtube-nocookie.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
+
+// for youtube raw ip's
 DOMAIN,209.85.226.0/24
 DOMAIN,209.85.233.0/24
 DOMAIN,173.194.220.0/24
@@ -106,10 +117,6 @@ DOMAIN,74.125.100.0/24
 DOMAIN,173.194.73.0/24
 DOMAIN,74.125.8.0/24
 DOMAIN,35.186.232.0/24
-DOMAIN-SUFFIX,*.youtube.com
-DOMAIN-SUFFIX,*.googlevideo.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
-DOMAIN,youtube-nocookie.com
 DOMAIN,142.250.72.206
 DOMAIN,142.250.191.46
 DOMAIN,142.250.191.78
@@ -123,11 +130,8 @@ DOMAIN,142.250.189.174
 DOMAIN,142.251.46.174
 DOMAIN,142.251.46.206
 DOMAIN,142.251.32.46
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,booking.com
 DOMAIN,64.233.169.102
 DOMAIN,64.233.169.100
 DOMAIN,64.233.163.190
 DOMAIN,64.233.163.91
 DOMAIN,64.233.160.94
-DOMAIN-SUFFIX,youtube.com
