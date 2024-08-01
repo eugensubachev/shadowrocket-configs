@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,deepstatemap.live
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,vpn
 
 // ru all
 DOMAIN-SUFFIX,habr.com
