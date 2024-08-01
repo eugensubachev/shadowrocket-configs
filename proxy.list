@@ -34,8 +34,6 @@ DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.com
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-KEYWORD,netflix
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,openai.com
@@ -82,6 +80,20 @@ DOMAIN-SUFFIX,google.com
 
 // ru all
 DOMAIN-SUFFIX,habr.com
+
+// for netflix
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-KEYWORD,netflix
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixstudios.com
+DOMAIN,52.0.131.132
+DOMAIN,3.221.228.214
+DOMAIN,18.207.84.236
 
 // for youtube
 DOMAIN-SUFFIX,*.youtube.com
