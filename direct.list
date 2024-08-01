@@ -2,3 +2,13 @@
 # AUTHOR: subae
 # REPO: https://github.com/eugensubachev/shadowrocket-configs
 # UPDATED: 2024-08-01 13:11:00
+
+DOMAIN-SUFFIX,.ru
+DOMAIN-SUFFIX,.com.ru
+DOMAIN-SUFFIX,.exnet.su
+DOMAIN-SUFFIX,.ru.net
+DOMAIN-SUFFIX,.pp.ru
+DOMAIN-SUFFIX,.net.ru
+DOMAIN-SUFFIX,.org.ru
+GEOIP,RU
+FINAL
