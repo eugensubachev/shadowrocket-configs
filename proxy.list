@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-KEYWORD,vpn
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,linkedin
+DOMAIN-SUFFIX,linkedin.com
 
 // ru all
 DOMAIN-SUFFIX,habr.com
