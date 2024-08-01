@@ -87,6 +87,34 @@ DOMAIN-SUFFIX,etsy.com
 // ru all
 DOMAIN-SUFFIX,habr.com
 
+// media
+DOMAIN-SUFFIX,grani.ru
+DOMAIN-SUFFIX,sputnikipogrom.com
+DOMAIN-SUFFIX,mbk-news.appspot.com
+DOMAIN-SUFFIX,openmedia.io
+DOMAIN-SUFFIX,proekt.media
+DOMAIN-SUFFIX,tvrain.ru
+DOMAIN-SUFFIX,echo.msk.ru
+DOMAIN-SUFFIX,the-village.ru
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,zona.media
+DOMAIN-SUFFIX,snob.ru
+DOMAIN-SUFFIX,republic.ru
+DOMAIN-SUFFIX,tjournal.ru
+DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,ru.bellingcat.com
+DOMAIN-SUFFIX,holod.media
+DOMAIN-SUFFIX,welt.de
+DOMAIN-SUFFIX,theins.ru
+DOMAIN-SUFFIX,novayagazeta.ru
+DOMAIN-SUFFIX,thebell.io
+DOMAIN-SUFFIX,ovdinfo.org
+DOMAIN-SUFFIX,ovd.news
+DOMAIN-SUFFIX,ovd.legal
+DOMAIN-SUFFIX,sotavision.world
+
 // for netflix
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,netflix.com
