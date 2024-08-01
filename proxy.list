@@ -68,17 +68,18 @@ DOMAIN,104.18.7.192
 DOMAIN,104.18.6.192
 DOMAIN-SUFFIX,*.api.openai.com
 DOMAIN-SUFFIX,*.twilio.com
-DOMAIN-SUFFIX,wss://api.openai.com
+DOMAIN-SUFFIX,*.openai.com
 DOMAIN-SUFFIX,api.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,https://chatgpt.com/
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,deepstatemap.live
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-KEYWORD,vpn
+DOMAIN-KEYWORD,openai
 
 // ru all
 DOMAIN-SUFFIX,habr.com
