@@ -83,6 +83,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,linkedin
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,etsy.com
+DOMAIN-SUFFIX,teamviewer.com
 
 // ru all
 DOMAIN-SUFFIX,habr.com
