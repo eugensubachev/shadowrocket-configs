@@ -1,7 +1,9 @@
 # NAME: Proxy
 # AUTHOR: subae
 # REPO: https://github.com/eugensubachev/shadowrocket-conf-russia
-# UPDATED: 2024-08-01 11:00:00
+# UPDATED: 2024-08-01 11:29:00
+
+// abroad all
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -56,13 +58,32 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,ntc.party
+DOMAIN-SUFFIX,gofile.io
+DOMAIN,35.168.222.240
+DOMAIN,52.6.206.82
+DOMAIN,44.199.52.48
+DOMAIN,104.18.33.45
+DOMAIN,172.64.154.211
+DOMAIN,104.18.7.192
+DOMAIN,104.18.6.192
+DOMAIN-SUFFIX,*.api.openai.com
+DOMAIN-SUFFIX,*.twilio.com
+DOMAIN-SUFFIX,wss://api.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,https://chatgpt.com/
+DOMAIN-SUFFIX,openai.com
+
+// for youtube
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,ntc.party
-DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,209.85.226.0/24
 DOMAIN,209.85.233.0/24
@@ -109,22 +130,3 @@ DOMAIN,64.233.163.190
 DOMAIN,64.233.163.91
 DOMAIN,64.233.160.94
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,gofile.io
-DOMAIN,35.168.222.240
-DOMAIN,52.6.206.82
-DOMAIN,44.199.52.48
-DOMAIN,104.18.33.45
-DOMAIN,172.64.154.211
-DOMAIN,104.18.7.192
-DOMAIN,104.18.6.192
-DOMAIN-SUFFIX,*.api.openai.com
-DOMAIN-SUFFIX,*.twilio.com
-DOMAIN-SUFFIX,wss://api.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,habr.com
-DOMAIN-SUFFIX,https://chatgpt.com/
-DOMAIN-SUFFIX,openai.com
-GEOIP,RU,DIRECT
-FINAL,DIRECT
