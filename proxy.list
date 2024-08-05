@@ -84,8 +84,6 @@ DOMAIN-KEYWORD,linkedin
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,teamviewer.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
 
 // for open ai
 DOMAIN,browser-intake-datadoghq.com
