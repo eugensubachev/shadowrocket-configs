@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: subae
 # REPO: https://github.com/eugensubachev/shadowrocket-configs
-# UPDATED: 2024-08-01 14:51:00
+# UPDATED: 2024-08-05 12:03:00
 
 // abroad all
 DOMAIN-SUFFIX,ifconfig.me
