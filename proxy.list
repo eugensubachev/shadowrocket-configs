@@ -1345,6 +1345,11 @@ DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
+// for spotify (not all)
+DOMAIN-KEYWORD,-spotify-
+DOMAIN-KEYWORD,spotify.com
+USER-AGENT,Spotify*
+
 // for youtube
 DOMAIN-SUFFIX,*.youtube.com
 DOMAIN-SUFFIX,*.googlevideo.com
