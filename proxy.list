@@ -1731,3 +1731,8 @@ DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,yb.uncn.jp
+
+
+// for singnal
+DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,signal.org
