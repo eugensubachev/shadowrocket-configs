@@ -1736,3 +1736,8 @@ DOMAIN-SUFFIX,yb.uncn.jp
 // for singnal
 DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,signal.org
+
+// for f1
+DOMAIN-SUFFIX,*.formula1.com
+DOMAIN-KEYWORD,-formula1-
+DOMAIN-SUFFIX,*.f1.com
