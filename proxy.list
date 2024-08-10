@@ -1667,11 +1667,6 @@ DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
-// for spotify (not all)
-DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,spotify.com
-USER-AGENT,Spotify*
-
 // for hulu
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net
 DOMAIN-SUFFIX,112263.com
