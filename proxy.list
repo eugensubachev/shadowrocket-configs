@@ -1735,7 +1735,7 @@ DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,*.formula1.com
 DOMAIN-SUFFIX,fantasy.formula1.com
 DOMAIN-SUFFIX,api.formula1.com
-DOMAIN-KEYWORD,-formula1-
+DOMAIN-KEYWORD,formula1
 DOMAIN-SUFFIX,*.f1.com
 DOMAIN-SUFFIX,*.contentdirect.tv
 DOMAIN-KEYWORD,f1tv
