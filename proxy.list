@@ -84,6 +84,8 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-KEYWORD,stripe
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,miro.com
+DOMAIN-KEYWORD,miro
 
 // for youtube
 DOMAIN-SUFFIX,*.youtube.com
