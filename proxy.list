@@ -320,6 +320,8 @@ DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,ggpht.com
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtube*
