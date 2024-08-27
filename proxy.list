@@ -1,7 +1,11 @@
 # NAME: Proxy
 # AUTHOR: subae
 # REPO: https://github.com/eugensubachev/shadowrocket-configs
-# UPDATED: 2024-08-05 12:03:00
+# UPDATED: 2024-08-27 11:00:00
+
+
+// rules
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list,PROXY
 
 // abroad all
 DOMAIN-SUFFIX,ifconfig.me
