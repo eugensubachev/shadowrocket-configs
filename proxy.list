@@ -5,7 +5,7 @@
 
 
 // rules
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list
 
 // abroad all
 DOMAIN-SUFFIX,ifconfig.me
