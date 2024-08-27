@@ -3,10 +3,6 @@
 # REPO: https://github.com/eugensubachev/shadowrocket-configs
 # UPDATED: 2024-08-27 11:00:00
 
-
-// rules
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list
-
 // abroad all
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
