@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
+DOMAIN,accounts.spotify.com
 
 // for youtube
 DOMAIN-SUFFIX,*.youtube.com
