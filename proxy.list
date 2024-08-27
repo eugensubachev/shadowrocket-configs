@@ -84,15 +84,29 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-KEYWORD,stripe
 DOMAIN-SUFFIX,threads.net
+DOMAIN,accounts.spotify.com
+
+// miro
 DOMAIN-SUFFIX,miro.com
 DOMAIN-KEYWORD,miro
+
+// notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
-DOMAIN,accounts.spotify.com
+
+// ccleaner
+DOMAIN,ms4.agomo.com
+DOMAIN,dl.ccleanercloud.com
+DOMAIN,ms.agomo.com
+DOMAIN,ms3.agomo.com
+DOMAIN,ds.agomo.com
+DOMAIN,agomo.com
+DOMAIN,ccleanercloud.com
+DOMAIN,speccy.piriform.com
 
 // for youtube
 DOMAIN-SUFFIX,*.youtube.com
