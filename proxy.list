@@ -86,9 +86,9 @@ DOMAIN-KEYWORD,stripe
 DOMAIN-SUFFIX,threads.net
 DOMAIN,accounts.spotify.com
 DOMAIN,tidal.com
-DOMAIN, silabs.com
-DOMAIN-KEYWORD, salesforce
-DOMAIN-KEYWORD, silabs
+DOMAIN,silabs.com
+DOMAIN-KEYWORD,salesforce
+DOMAIN-KEYWORD,silabs
 
 // miro
 DOMAIN-SUFFIX,miro.com
