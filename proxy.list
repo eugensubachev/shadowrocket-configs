@@ -1889,3 +1889,7 @@ DOMAIN-SUFFIX,garmin.com
 // dia
 DOMAIN-KEYWORD,dia
 DOMAIN-SUFFIX,diabrowser.com
+
+// deepl
+DOMAIN-KEYWORK,deepl
+DOMAIN-SUFFIX,deepl.com
