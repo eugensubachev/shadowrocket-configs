@@ -1885,3 +1885,7 @@ DOMAIN-SUFFIX,ttwstatic.com
 // for garmin
 DOMAIN-KEYWORD,garmin
 DOMAIN-SUFFIX,garmin.com
+
+// dia
+DOMAIN-KEYWORD,dia
+DOMAIN-SUFFIX,diabrowser.com
