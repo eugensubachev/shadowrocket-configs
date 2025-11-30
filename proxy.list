@@ -1869,6 +1869,15 @@ DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
+DOMAIN,138.128.136.0/21
+DOMAIN,162.158.0.0/15
+DOMAIN,172.64.0.0/13
+DOMAIN,34.0.0.0/15
+DOMAIN,34.2.0.0/15
+DOMAIN,35.192.0.0/12
+DOMAIN,35.208.0.0/12
+DOMAIN,5.200.14.128/25
+DOMAIN,66.22.192.0/18
 
 // for tiktok
 DOMAIN-SUFFIX,byteoversea.com
