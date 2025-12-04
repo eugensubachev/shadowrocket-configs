@@ -1907,3 +1907,10 @@ DOMAIN-SUFFIX,diabrowser.com
 // for deepl
 DOMAIN-KEYWORK,deepl
 DOMAIN-SUFFIX,deepl.com
+
+// for facetime
+DOMAIN-KEYWORD,facetime
+DOMAIN,17.248.192.0/22
+DOMAIN,17.173.0.0/16
+DOMAIN,17.178.0.0/16
+DOMAIN,17.133.0.0/16
